@@ -1,0 +1,70 @@
+<style>
+   .turquoise-background {background-color: turquoise;}
+     .black-text {
+    color: black;
+  }
+  h1 {
+    font-size: 2.5em;
+    margin: 0 0 .5em 0;
+    font-family: Satisfy, cursive;
+        
+  }
+  
+  body{
+  background-color: lightblue;
+}
+  
+  
+ 
+  .thick-grey-border {
+    border-color: grey;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 50%;
+  }
+
+  .smaller-image {
+    width: 100px;
+  }
+</style>
+<header>
+<h1 class="black-text" style="text-align:center">Abdulhadi Profile
+</h1>
+
+
+</header>
+<body>
+    <div class=turquoise-background>
+
+
+<main>
+ 
+  
+  <a href="#"><img class="smaller-image thick-grey-border" src="https://pbs.twimg.com/profile_images/987303719074086912/_CEA3_Pf.jpg" alt="hadipic"></a>
+  
+  <div class=turquoise-background>
+    
+    <p> About me: 29 years from Syria,I'm accountant with Master of business adminstration certificat,   
+With almost six years of rich working experience in accounting and financial field within different types of business domains. 
+Strong knowledge of business accounting, handle a full set of accounts and financial statements. 
+Strong communications skills with an ability to grasp new things quickly and a very good team player with strong interpersonal skills. so i do concentrate on the followings areas</p>
+
+    <ul>
+      <li>increase my knowledge</li>
+      <li>be update with all the new coming technology</li>
+      <li>increase my opportunities by always keep learning new things</li>
+    </ul>
+
+    <p>why i wanna learn web-development and design:</p>
+    <ol>
+      <li> New knowledge for me and one of the highest demanded occupation in the world</li>
+      <li> Nowadyas to learn something like programming language is important to b up to date</li>
+      <li> As most of the entity in this world are using website and applications so knowing how its work make things clearer </li>
+      <li> Coding seems interesting activity for me </li>
+      <li> Good to improve my start up / freelance business by producing own website</li>
+    </ol>
+  </div>
+  
+
+</main>
+</body>
